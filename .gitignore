@@ -1,0 +1,19 @@
+# Dependencies
+/node_modules
+
+# Environment variables (Sangat penting agar API Key aman)
+.env
+.env.local
+
+# Build outputs
+/dist
+/bin
+
+# Temporary or media files
+/clips
+test_video.mp4
+
+# Editor / OS specific files
+.DS_Store
+Thumbs.db
+.vscode/
